@@ -1,5 +1,5 @@
 # Proxy_Scraper_Checker_By_Devil
-This is a Scraping & Checker Tool with Gui Interface Scrap Proxies[HTTP,HTTPS,SOCK4 & SOCKS5
+This is a Scraping & Checker Tool with Gui Interface Scrap Proxies[HTTP,HTTPS,SOCK4 & SOCKS5]
         
         
 ### [+] Installation
