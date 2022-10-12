@@ -14,7 +14,10 @@ This is a Scraping & Checker Tool with Gui Interface Scrap Proxies[HTTP,HTTPS,SO
 
 ```cd Proxy_Scraper_Checker_By_Devil```
 
+```chmod 777 Scraper ```
+
 ```./Scraper ```
+
 ### [+] Windows version will be upload soon
 
 ### [+] Support :-
