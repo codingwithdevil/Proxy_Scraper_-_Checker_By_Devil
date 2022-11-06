@@ -18,7 +18,7 @@ This is a Scraping & Checker Tool with Gui Interface Scrap Proxies[HTTP,HTTPS,SO
 
 ```./Scraper ```
 
-### [+] Windows version will be upload soon
+### [+] Windows version : https://github.com/codingwithdevil/Proxy_ToolKit.git
 
 ### [+] Support :-
 
